@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="ViewSkin" width="750" height="1334" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Group x="278" y="0">
+		<e:Image id="img0" source="bg_jpg" x="0" y="0" width="50" height="50"/>
+		<e:Image id="img1" source="bg_jpg" x="50" y="0" width="50" height="50"/>
+		<e:Image id="img2" source="bg_jpg" x="100" y="0" width="50" height="50"/>
+		<e:Image id="img3" source="bg_jpg" x="150" y="0" width="50" height="50"/>
+		<e:Image id="img4" source="bg_jpg" x="200" y="0" width="50" height="50"/>
+		<e:Image id="img5" source="bg_jpg" x="250" y="0" width="50" height="50"/>
+	</e:Group>
+	<e:Group x="278" y="50">
+		<e:Image id="img6" source="bg_jpg" x="0" y="0" width="50" height="50"/>
+		<e:Image id="img7" source="bg_jpg" x="50" y="0" width="50" height="50"/>
+		<e:Image id="img8" source="bg_jpg" x="100" y="0" width="50" height="50"/>
+		<e:Image id="img9" source="bg_jpg" x="150" y="0" width="50" height="50"/>
+		<e:Image id="img10" source="bg_jpg" x="200" y="0" width="50" height="50"/>
+		<e:Image id="img11" source="bg_jpg" x="250" y="0" width="50" height="50"/>
+	</e:Group>
+	<e:Group x="278" y="100">
+		<e:Image id="img12" source="bg_jpg" x="0" y="0" width="50" height="50"/>
+		<e:Image id="img13" source="bg_jpg" x="50" y="0" width="50" height="50"/>
+		<e:Image id="img14" source="bg_jpg" x="100" y="0" width="50" height="50"/>
+		<e:Image id="img15" source="bg_jpg" x="150" y="0" width="50" height="50"/>
+		<e:Image id="img16" source="bg_jpg" x="200" y="0" width="50" height="50"/>
+		<e:Image id="img17" source="bg_jpg" x="250" y="0" width="50" height="50"/>
+	</e:Group>
+	<e:Group x="278" y="150">
+		<e:Image id="img18" source="bg_jpg" x="0" y="0" width="50" height="50"/>
+		<e:Image id="img19" source="bg_jpg" x="50" y="0" width="50" height="50"/>
+		<e:Image id="img20" source="bg_jpg" x="100" y="0" width="50" height="50"/>
+		<e:Image id="img21" source="bg_jpg" x="150" y="0" width="50" height="50"/>
+		<e:Image id="img22" source="bg_jpg" x="200" y="0" width="50" height="50"/>
+		<e:Image id="img23" source="bg_jpg" x="250" y="0" width="50" height="50"/>
+	</e:Group>
+	<e:Group x="278" y="200">
+		<e:Image id="img24" source="bg_jpg" x="0" y="0" width="50" height="50"/>
+		<e:Image id="img25" source="bg_jpg" x="50" y="0" width="50" height="50"/>
+		<e:Image id="img26" source="bg_jpg" x="100" y="0" width="50" height="50"/>
+		<e:Image id="img27" source="bg_jpg" x="150" y="0" width="50" height="50"/>
+		<e:Image id="img28" source="bg_jpg" x="200" y="0" width="50" height="50"/>
+		<e:Image id="img29" source="bg_jpg" x="250" y="0" width="50" height="50"/>
+	</e:Group>
+	<e:Group x="278" y="250">
+		<e:Image id="img30" source="bg_jpg" x="0" y="0" width="50" height="50"/>
+		<e:Image id="img31" source="bg_jpg" x="50" y="0" width="50" height="50"/>
+		<e:Image id="img32" source="bg_jpg" x="100" y="0" width="50" height="50"/>
+		<e:Image id="img33" source="bg_jpg" x="150" y="0" width="50" height="50"/>
+		<e:Image id="img34" source="bg_jpg" x="200" y="0" width="50" height="50"/>
+		<e:Image id="img35" source="bg_jpg" x="250" y="0" width="50" height="50"/>
+	</e:Group>
+</e:Skin>
